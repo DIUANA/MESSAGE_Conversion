@@ -9,4 +9,4 @@ The scripts were built based on the Brazilian Land Use and Energy System (BLUES)
 
 The MESSAGEix model was customized to better fit BLUES demands. Due to the modifications it is not possible to solve the model via ixmp.
 
-Ixmp generates the gdx file and the model is optimize manually by running the MESSAGE_master.gms file
+Ixmp generates the gdx file and the model is optimized manually by running the MESSAGE_master.gms file
