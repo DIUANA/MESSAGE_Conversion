@@ -1,0 +1,30 @@
+* CPLEX LP solution method
+* see https://www.gams.com/help/topic/gams.doc/solvers/cplex/index.html#CPLEXlpmethod
+
+*Specifies which LP algorithm to use. If left at the default value (0 for automatic), 
+*and a primal-feasible basis is available, primal simplex will be used. If no primal-feasible basis is available, 
+*and Threads is equal to 1, dual simplex will be used. 
+*If Threads is greater than 1 and no primal-feasible basis is available, the concurrent option will be used.
+
+*Sifting may be useful for problems with many more variables than equations.
+
+*The concurrent option runs multiple methods in parallel. 
+*The first thread uses dual simplex. The second thread uses barrier. 
+*The next thread uses primal simplex. Remaining threads are used by the barrier run. 
+*If the aspect ratio (number of columns versus number of rows) is large, and if more than 10 threads are available, 
+*then concurrent optimization also invokes sifting on the LP. 
+*The solution is returned by first method to finish.
+* 0     Automatic
+* 1     Primal Simplex
+* 2     Dual Simplex
+* 3     Network Simplex
+* 4     Barrier
+* 5     Sifting
+* 6     Concurrent
+
+*threads --> number of parallel threads allowed for any solution method.
+*epopt --> feasibility tolerance
+
+lpmethod = 6
+threads = 4
+epopt 1e-6

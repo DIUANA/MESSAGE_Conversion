@@ -1,0 +1,39 @@
+--- Job MESSAGE_run.gms Start 06/18/20 14:54:30 24.7.4 r58773 WEX-WEI x86 64bit/MS Windows
+GAMS 24.7.4   Copyright (C) 1987-2016 GAMS Development. All rights reserved
+Licensee: Energy Planning Program                        W150420:1241AO-WIN
+          COPPE-UFRJ                                                DC11728
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- MESSAGE_run.gms(65) 2 Mb
+--- .MESSAGE/model_setup.gms(66) 2 Mb
+--- ..MESSAGE/auxiliary_settings.gms(37) 2 Mb
+--- .MESSAGE/model_setup.gms(69) 2 Mb
+--- ..version.gms(23) 2 Mb
+--- .MESSAGE/model_setup.gms(70) 2 Mb
+--- ..MESSAGE/version_check.gms(7) 2 Mb
+--- GDXin=d:\fabio\diuana_pdrive_iiasa\models\message_ix\message_ix\model\data\MsgData_Br_tutorial_testing_new_version2.gdx
+--- ..MESSAGE/version_check.gms(24) 3 Mb
+--- .MESSAGE/model_setup.gms(73) 3 Mb
+--- ..MESSAGE/sets_maps_def.gms(472) 3 Mb
+--- .MESSAGE/model_setup.gms(74) 3 Mb
+--- ..MESSAGE/parameter_def.gms(826) 3 Mb
+--- .MESSAGE/model_setup.gms(77) 3 Mb
+--- ..MESSAGE/data_load.gms(9) 3 Mb
+--- GDXin=d:\fabio\diuana_pdrive_iiasa\models\message_ix\message_ix\model\data\MsgData_Br_tutorial_testing_new_version2.gdx
+--- ..MESSAGE/data_load.gms(111) 3 Mb
+--- ...includes/period_parameter_assignment.gms(118) 3 Mb
+--- ..MESSAGE/data_load.gms(247) 3 Mb
+--- .MESSAGE/model_setup.gms(80) 3 Mb
+--- ..MESSAGE/scaling_investment_costs.gms(180) 3 Mb
+--- .MESSAGE/model_setup.gms(86) 3 Mb
+--- ..MESSAGE/model_core.gms(2209) 3 Mb 4 Errors
+--- .MESSAGE/model_setup.gms(86) 3 Mb
+--- MESSAGE_run.gms(71) 3 Mb
+--- .MESSAGE/model_solve.gms(104) 3 Mb 8 Errors
+--- ..includes/aux_computation_time.gms(14) 3 Mb 8 Errors
+--- .MESSAGE/model_solve.gms(170) 3 Mb 15 Errors
+--- MESSAGE_run.gms(78) 3 Mb
+--- .MESSAGE/reporting.gms(26) 3 Mb
+--- MESSAGE_run.gms(87) 3 Mb 15 Errors
+*** Status: Compilation error(s)
+--- Job MESSAGE_run.gms Stop 06/18/20 14:54:30 elapsed 0:00:00.044

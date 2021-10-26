@@ -1,0 +1,1075 @@
+
+--- Job MESSAGE/model_core.gms Start 09/12/21 11:54:43 24.7.4 r58773 WEX-WEI x86 64bit/MS Windows
+GAMS 24.7.4   Copyright (C) 1987-2016 GAMS Development. All rights reserved
+Licensee: Energy Planning Program                        W150420:1241AO-WIN
+          COPPE-UFRJ                                                DC11728
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- MESSAGE/model_core.gms(81) 2 Mb 4 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(83) 2 Mb 5 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(85) 2 Mb 7 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(88) 2 Mb 8 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(91) 2 Mb 9 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(98) 2 Mb 10 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(107) 2 Mb 11 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(113) 2 Mb 13 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(115) 2 Mb 14 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(116) 2 Mb 15 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(140) 2 Mb 16 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(150) 2 Mb 17 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(152) 2 Mb 18 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(157) 3 Mb 20 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(158) 3 Mb 22 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(166) 3 Mb 23 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(173) 3 Mb 24 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(174) 3 Mb 25 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(175) 3 Mb 26 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(176) 3 Mb 27 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(177) 3 Mb 28 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(178) 3 Mb 29 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(179) 3 Mb 30 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(180) 3 Mb 31 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(181) 3 Mb 32 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(182) 3 Mb 33 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(183) 3 Mb 34 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(184) 3 Mb 35 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(212) 3 Mb 36 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(221) 3 Mb 37 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(222) 3 Mb 38 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(322) 3 Mb 41 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(369) 3 Mb 42 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(371) 3 Mb 43 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(372) 3 Mb 44 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(374) 3 Mb 45 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(377) 3 Mb 47 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(378) 3 Mb 48 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(380) 3 Mb 49 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(382) 3 Mb 50 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(386) 3 Mb 51 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(387) 3 Mb 52 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(389) 3 Mb 53 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(405) 3 Mb 54 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(406) 3 Mb 55 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(407) 3 Mb 58 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(408) 3 Mb 59 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(409) 3 Mb 60 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(410) 3 Mb 63 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(415) 3 Mb 64 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(416) 3 Mb 65 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(417) 3 Mb 67 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(418) 3 Mb 69 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(419) 3 Mb 70 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(420) 3 Mb 71 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(421) 3 Mb 73 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(425) 3 Mb 74 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(426) 3 Mb 75 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(428) 3 Mb 76 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(431) 3 Mb 77 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(434) 3 Mb 78 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(437) 3 Mb 79 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(440) 3 Mb 80 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(441) 3 Mb 82 Errors
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(533) 3 Mb 86 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(535) 3 Mb 87 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(538) 3 Mb 88 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(552) 3 Mb 89 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(553) 3 Mb 90 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(570) 3 Mb 91 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(576) 3 Mb 92 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(577) 3 Mb 94 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(578) 3 Mb 95 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(591) 3 Mb 98 Errors
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(651) 3 Mb 100 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(652) 3 Mb 107 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(654) 3 Mb 109 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(672) 3 Mb 110 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(673) 3 Mb 111 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(675) 3 Mb 113 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(691) 3 Mb 114 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(692) 3 Mb 115 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(694) 3 Mb 116 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(695) 3 Mb 117 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(731) 3 Mb 119 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(755) 3 Mb 120 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(757) 3 Mb 121 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(758) 3 Mb 122 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(779) 3 Mb 124 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(815) 3 Mb 125 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+--- MESSAGE/model_core.gms(835) 3 Mb 126 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(837) 3 Mb 127 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(858) 3 Mb 128 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(863) 3 Mb 130 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(886) 3 Mb 131 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(890) 3 Mb 133 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(913) 3 Mb 135 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(914) 3 Mb 136 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(915) 3 Mb 137 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(935) 3 Mb 138 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(957) 3 Mb 139 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(985) 3 Mb 141 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(987) 3 Mb 143 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(988) 3 Mb 144 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(995) 3 Mb 145 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(999) 3 Mb 146 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1000) 3 Mb 147 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1036) 3 Mb 148 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1066) 3 Mb 149 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1067) 3 Mb 150 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1068) 3 Mb 151 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1095) 3 Mb 152 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1098) 3 Mb 153 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1155) 3 Mb 154 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1156) 3 Mb 156 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1185) 3 Mb 158 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1186) 3 Mb 160 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1192) 3 Mb 161 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1228) 3 Mb 163 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1251) 3 Mb 164 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1252) 3 Mb 167 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1253) 3 Mb 168 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1265) 3 Mb 169 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1266) 3 Mb 172 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1267) 3 Mb 173 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1280) 3 Mb 174 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1281) 3 Mb 175 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1283) 3 Mb 176 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1284) 3 Mb 177 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1296) 3 Mb 178 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1299) 3 Mb 179 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1300) 3 Mb 180 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1317) 3 Mb 181 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1325) 3 Mb 182 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1326) 3 Mb 183 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1340) 3 Mb 184 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1345) 3 Mb 185 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1372) 3 Mb 186 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1393) 3 Mb 187 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1419) 3 Mb 189 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1421) 3 Mb 190 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1432) 3 Mb 192 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1449) 3 Mb 193 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1491) 3 Mb 196 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1493) 3 Mb 198 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1494) 3 Mb 199 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1496) 3 Mb 200 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1510) 3 Mb 202 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(1511) 3 Mb 203 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1540) 3 Mb 204 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1603) 3 Mb 205 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1605) 3 Mb 207 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1607) 3 Mb 208 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1608) 3 Mb 209 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1614) 3 Mb 212 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1616) 3 Mb 216 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+*** Error   7 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '(' expected
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+--- MESSAGE/model_core.gms(1624) 3 Mb 225 Errors
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 441 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected TO or DOWNTO. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error 442 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected a ',' or BY. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error  10 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ',' expected
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+--- MESSAGE/model_core.gms(1641) 3 Mb 229 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1660) 3 Mb 230 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1662) 3 Mb 232 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1664) 3 Mb 233 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1665) 3 Mb 234 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1671) 3 Mb 236 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1673) 3 Mb 240 Errors
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+*** Error   7 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '(' expected
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+--- MESSAGE/model_core.gms(1681) 3 Mb 249 Errors
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 441 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected TO or DOWNTO. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error 442 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected a ',' or BY. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error  10 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ',' expected
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+--- MESSAGE/model_core.gms(1694) 3 Mb 253 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1713) 3 Mb 254 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1718) 3 Mb 255 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1719) 3 Mb 256 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1728) 3 Mb 257 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1729) 3 Mb 261 Errors
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+*** Error   7 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '(' expected
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+--- MESSAGE/model_core.gms(1738) 3 Mb 270 Errors
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 441 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected TO or DOWNTO. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error 442 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected a ',' or BY. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error  10 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ',' expected
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+--- MESSAGE/model_core.gms(1751) 3 Mb 271 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1772) 3 Mb 272 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1777) 3 Mb 273 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1778) 3 Mb 274 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1788) 3 Mb 278 Errors
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+*** Error   7 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '(' expected
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+--- MESSAGE/model_core.gms(1797) 3 Mb 287 Errors
+*** Error  36 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=' or '..' or ':=' or '$=' operator expected
+    rest of statement ignored
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 441 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected TO or DOWNTO. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error   2 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Identifier expected
+*** Error 119 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Number (primary) expected
+*** Error 442 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Expected a ',' or BY. The general syntax of a FOR statement is
+      FOR ( i = start TO/DOWNTO end [BY increment] , statements )
+*** Error  10 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ',' expected
+*** Error   8 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    ')' expected
+--- MESSAGE/model_core.gms(1810) 3 Mb 288 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(1839) 3 Mb 289 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1843) 3 Mb 290 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1848) 3 Mb 291 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1849) 3 Mb 292 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1879) 3 Mb 293 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1880) 3 Mb 294 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1883) 3 Mb 295 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1886) 3 Mb 297 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1907) 3 Mb 298 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1928) 3 Mb 299 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1932) 3 Mb 300 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1933) 3 Mb 301 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1940) 3 Mb 302 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1944) 3 Mb 303 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1961) 3 Mb 304 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1965) 3 Mb 305 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1966) 3 Mb 306 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(1977) 3 Mb 307 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(1998) 3 Mb 308 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2001) 3 Mb 309 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2003) 3 Mb 310 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2004) 3 Mb 311 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2012) 3 Mb 312 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2019) 3 Mb 313 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2037) 3 Mb 314 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2042) 3 Mb 315 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2044) 3 Mb 316 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2051) 3 Mb 317 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2058) 3 Mb 318 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2092) 3 Mb 320 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2093) 3 Mb 321 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2097) 3 Mb 322 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2113) 3 Mb 323 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2115) 3 Mb 325 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2124) 3 Mb 326 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2126) 3 Mb 328 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2170) 3 Mb 330 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(2172) 3 Mb 333 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2176) 3 Mb 334 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2201) 3 Mb 335 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2203) 3 Mb 338 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2205) 3 Mb 341 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2207) 3 Mb 344 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2208) 3 Mb 346 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2210) 3 Mb 347 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2216) 3 Mb 349 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2220) 3 Mb 351 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2223) 3 Mb 353 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(2224) 3 Mb 354 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2227) 3 Mb 358 Errors
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2243) 3 Mb 359 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2251) 3 Mb 361 Errors
+*** Error 120 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown identifier entered as set
+*** Error 340 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    A label/element with the same name exist. You may have forgotten
+       to quote a label/element reference. For example,
+       set i / a,b,c /; parameter x(i); x('a') = 10;
+--- MESSAGE/model_core.gms(2252) 3 Mb 362 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2254) 3 Mb 363 Errors
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2307) 3 Mb 365 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+*** Error 171 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Domain violation for set
+--- MESSAGE/model_core.gms(2308) 3 Mb 366 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2312) 3 Mb 367 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2313) 3 Mb 368 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2330) 3 Mb 369 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2332) 3 Mb 371 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2341) 3 Mb 372 Errors
+*** Error 140 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unknown symbol
+--- MESSAGE/model_core.gms(2343) 3 Mb 374 Errors
+*** Error  37 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    '=l=' or '=e=' or '=g=' operator expected
+*** Error 409 in D:\Fabio\Diuana_Pdrive_IIASA\Models\NEST-BLUES\model\MESSAGE/model_core.gms
+    Unrecognizable item - skip to find a new statement
+      looking for a ';' or a key word to get started again
+--- MESSAGE/model_core.gms(2353) 3 Mb 374 Errors
+*** Status: Compilation error(s)
+--- Job MESSAGE/model_core.gms Stop 09/12/21 11:54:44 elapsed 0:00:00.645
+Exit code = 2

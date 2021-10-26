@@ -1,0 +1,155 @@
+* CPLEX LP solution method
+* see https://www.gams.com/help/topic/gams.doc/solvers/cplex/index.html#CPLEXlpmethod
+
+*Specifies which LP algorithm to use. If left at the default value (0 for automatic), 
+*and a primal-feasible basis is available, primal simplex will be used. If no primal-feasible basis is available, 
+*and Threads is equal to 1, dual simplex will be used. 
+*If Threads is greater than 1 and no primal-feasible basis is available, the concurrent option will be used.
+
+*Sifting may be useful for problems with many more variables than equations.
+
+*The concurrent option runs multiple methods in parallel. 
+*The first thread uses dual simplex. The second thread uses barrier. 
+*The next thread uses primal simplex. Remaining threads are used by the barrier run. 
+*If the aspect ratio (number of columns versus number of rows) is large, and if more than 10 threads are available, 
+*then concurrent optimization also invokes sifting on the LP. 
+*The solution is returned by first method to finish.
+* 0     Automatic
+* 1     Primal Simplex
+* 2     Dual Simplex
+* 3     Network Simplex
+* 4     Barrier
+* 5     Sifting
+* 6     Concurrent
+
+lpmethod = 2 
+
+*threads --> number of parallel threads allowed for any solution method.
+
+threads = 3
+
+*epopt --> feasibility tolerance
+
+*epopt (real): optimality tolerance ↵
+*The optimality tolerance influences the reduced-cost tolerance for optimality. 
+*This option setting governs how closely Cplex must approach the theoretically optimal solution.
+*Range: [1e-009, 0.1]
+*Default: 1e-006
+epopt 0.1
+
+*Perform Presolve. This helps most problems by simplifying, reducing and eliminating redundancies. 
+*However, if there are no redundancies or opportunities for simplification in the model, if may be faster to turn presolve off to avoid this step. 
+*On rare occasions, the presolved model, although smaller, may be more difficult than the original problem. In this case turning the presolve off leads to better performance. 
+*Specifying 0 turns the aggregator off as well.
+*default on: 1 off:0
+
+preind 1
+
+*numericalemphasis (boolean): emphasizes precision in numerically unstable or difficult problems 
+*This parameter lets you indicate to Cplex that it should emphasize precision in numerically difficult or unstable problems, with consequent performance trade-offs in time and memory.
+*0	Off
+*1	Exercise extreme caution in computation
+
+numericalemphasis 1
+
+*reduce (integer): primal and dual reduction type
+*Determines whether primal reductions, dual reductions, or both, are performed during preprocessing. 
+*It is occasionally advisable to do only one or the other when diagnosing infeasible or unbounded models.
+*0	No primal or dual reductions
+*1	Only primal reductions
+*2	Only dual reductions
+*3	Both primal and dual reductions
+*Default: 3
+
+reduce 3
+
+*eprhs (real): feasibility tolerance ↵
+*Feasibility tolerance. This specifies the degree to which a problem's basic variables may violate their bounds. 
+*This tolerance influences the selection of an optimal basis and can be reset to a higher value when a problem is having difficulty maintaining feasibility during optimization. 
+*You may also wish to lower this tolerance after finding an optimal solution if there is any doubt that the solution is truly optimal. If the feasibility tolerance is set too low, Cplex may falsely conclude that a problem is infeasible.
+*Range: [1e-009, 0.1]
+*Default: 1e-006
+
+eprhs 1e-006
+
+*epmrk (real): Markowitz pivot tolerance ↵
+*The Markowitz tolerance influences pivot selection during basis factorization. Increasing the Markowitz threshold may improve the numerical properties of the solution.
+*Range: [0.0001, 0.99999]
+*Default: 0.01
+
+epmrk 0.9
+
+*scaind (integer): matrix scaling on/off ↵
+*This option influences the scaling of the problem matrix.
+*Default: 0
+*value	meaning
+*-1	No scaling
+*0	Standard scaling
+*An equilibration scaling method is implemented which is generally very effective.
+*1	Modified, more aggressive scaling method
+*This method can produce improvements on some problems. This scaling should be used if the problem is observed to have difficulty staying feasible during the solution process.
+
+scaind 1
+
+*epper (real): perturbation constant ↵
+*Perturbation setting. Highly degenerate problems tend to stall optimization progress. Cplex automatically perturbs the variable bounds when this occurs. 
+*Perturbation expands the bounds on every variable by a small amount thereby creating a different but closely related problem.
+*Generally, the solution to the less constrained problem is easier to solve. Once the solution to the perturbed problem has advanced as far as it can go, 
+Cplex removes the perturbation by resetting the bounds to their original values.
+*If the problem is perturbed more than once, the perturbation constant is probably too large. 
+Reduce the epper option to a level where only one perturbation is required. Any value greater than or equal to 1.0e-8 is valid.
+
+*Default: 1e-007
+epper 1e-008
+
+*datacheck (integer): controls data consistency checking and modeling assistance 
+*When the value of this parameter is set to level 2, CPLEX turns on both data consistency checking and modeling assistance. 
+*At this level, CPLEX issues warnings at the start of the optimization about disproportionate values (too large, too small) in coefficients, bounds, and righthand sides (RHS).
+*Default: 0
+*value	meaning
+*0	Data checking off
+*1	Data checking on
+*2	Data checking and model assistance on
+
+*datacheck 2
+
+
+*Find an set of conflicting constraints or IIS (Irreducably Inconsistent Set) and write an conflict report to the GAMS solution listing if the model is found to be infeasible.
+iis 0
+
+*With Feasopt turned on, a minimum-cost relaxation of the right hand side values of constraints or bounds on variables is computed in order to make an infeasible model feasible. 
+*It marks the relaxed right hand side values and bounds in the solution listing.
+*Several options are available for the metric used to determine what constitutes a minimum-cost relaxation which can be set by option FeasOptMode.
+*Feasible relaxations are available for all problem types with the exception of quadratically constraint problems.
+* off:0 on:1
+feasopt 0
+
+*feasoptmode (integer): mode of FeasOpt
+*The parameter FeasOptMode allows different strategies in finding feasible relaxation in one or two phases. In its first phase, it attempts to minimize its relaxation of the infeasible model. 
+*That is, it attempts to find a feasible solution that requires minimal change. 
+*In its second phase, it finds an optimal solution (using the original objective) among those that require only as much relaxation as it found necessary in the first phase. 
+*Values of the parameter FeasOptMode indicate two aspects: 
+*(1) whether to stop in phase one or continue to phase two and 
+*(2) how to measure the minimality of the relaxation (as a sum of required relaxations; as the number of constraints and bounds required to be relaxed; as a sum of the squares of required relaxations).
+*Default: 0
+*value	meaning
+*0	Minimize sum of relaxations
+*Minimize the sum of all required relaxations in first phase only
+*1	Minimize sum of relaxations and optimize
+*Minimize the sum of all required relaxations in first phase and execute second phase to find optimum among minimal relaxations
+*2	Minimize number of relaxations
+*Minimize the number of constraints and bounds requiring relaxation in first phase only
+*3	Minimize number of relaxations and optimize
+*Minimize the number of constraints and bounds requiring relaxation in first phase and execute second phase to find optimum among minimal relaxations
+*4	Minimize sum of squares of relaxations
+*Minimize the sum of squares of required relaxations in first phase only
+*5	Minimize sum of squares of relaxations and optimize
+*Minimize the sum of squares of required relaxations in first phase and execute second phase to find optimum among minimal relaxations
+
+feasoptmode 0
+
+*quality (boolean): write solution quality statistics ↵
+*Write solution quality statistics to the listing and log file. 
+*If set to yes, the statistics appear after the Solve Summary and before the Solution Listing and contain information about infeasibility levels, solution value magnitued, and the condition number (kappa):
+*DEFAULT 0
+quality 1
