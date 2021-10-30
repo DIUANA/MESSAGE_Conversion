@@ -677,7 +677,13 @@ def conv_data(tpp, adb_files, ldb, vtgs,year_act, BLUES, sc2_e, df_generator):#a
                                     lcd = Level_form_dict[ node ]
                                             
                                 ii = ' '.join(str(s) for s in inp1[2:]) #get all inp info into a string separeted by " "
-                                inp_val = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ii.split('#')[0]) #getting all numbers of the input #r"bd[d,.]*b"
+                                
+                                if 'E' in ii.split('#')[0].upper():
+                                   print(tn0+' - '+Reg + ' HAS E IN INPUT') #print tec name and its region   
+                                   inp_val = re.findall('-?\ *[0-9]+\.?[0-9]*(?:[Ee]\ *-?\ *[0-9]+)?',ii.split('#')[0])
+                                else:
+                                    inp_val = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ii.split('#')[0]) #getting all numbers of the input #r"bd[d,.]*b"
+                                                         
                                 inp_val = [r_t_z("{:.11f}".format(float(b)) ) for b in inp_val] # converting str into value
                                 if len(inp_val) > len(vtgs): #check if len inp val is greater than vtgs
                                     inp_val = inp_val[0:len(vtgs)] #adjust it
@@ -710,14 +716,17 @@ def conv_data(tpp, adb_files, ldb, vtgs,year_act, BLUES, sc2_e, df_generator):#a
                                     lcd = Level_form_dict[ node ]
                                             
                                 oo = ' '.join(str(s) for s in out1[2:]) #get all inp info into a string separeted by " "
-                                if 'E+' in oo.upper() or 'E-' in oo.upper():
-                                    match_number = re.compile('-?\ *[0-9]+\.?[0-9]*(?:[Ee]\ *-?\ *[0-9]+)?')
-                                    final_list = [float(x) for x in re.findall(match_number, oo)]
-                                    out_val = [final_list[0] * 10 ** final_list[-1]]
+                                
+                                if 'E' in oo.split('#')[0].upper():
+                                   print(tn0+' - '+Reg + ' HAS E IN OUTPUT') #print tec name and its region   
+                                   out_val = re.findall('-?\ *[0-9]+\.?[0-9]*(?:[Ee]\ *-?\ *[0-9]+)?',oo.split('#')[0])
+
                                     
                                 else: 
                                     out_val = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", oo.split('#')[0]) #getting all numbers of the output
-                                    out_val = [r_t_z("{:.11f}".format(float(b)) ) for b in out_val] # converting str into value
+                                                         
+                                out_val = [r_t_z("{:.11f}".format(float(b)) ) for b in out_val] # converting str into value
+                                
                                 if len(out_val) > len(vtgs): #check if len inp val is greater than vtgs
                                     out_val = out_val[0:len(vtgs)] #adjust it
                                     
@@ -736,8 +745,13 @@ def conv_data(tpp, adb_files, ldb, vtgs,year_act, BLUES, sc2_e, df_generator):#a
                             emi_fac_aux = [e.strip() for e in emi1 if e.split('-')[0] in sc2_e] #check if values are among the emissions previously defined  
                             if len(emi_fac_aux) > 0:  #check if there is any value
                                 emi_fac.append(emi_fac_aux[0]) #appending value into main list of emission factors
-
-                                ev_aux = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ee.split(emi_fac_aux[0])[-1].split('#')[0] ) #getting all numbers of the output emi1[ind+1:] #from ts to the end
+                                
+                                if 'E' in ee.split(emi_fac_aux[0])[-1].split('#')[0].upper():
+                                    print(tn0+' - '+Reg + ' HAS E IN EMISSION') #print tec name and its region   
+                                    ev_aux = re.findall('-?\ *[0-9]+\.?[0-9]*(?:[Ee]\ *-?\ *[0-9]+)?', ee.split(emi_fac_aux[0])[-1].split('#')[0] )
+                                else:
+                                    ev_aux = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ee.split(emi_fac_aux[0])[-1].split('#')[0] ) #getting all numbers of the output emi1[ind+1:] #from ts to the end
+                                
                                 ev_aux = [r_t_z("{:.11f}".format(float(v)) ) for v in ev_aux] #converting to float   
                                 emi_val.append(ev_aux) #appending value into main list of emission values  
                         if len(emi_fac)>0: #if there is any factor                                                        
@@ -756,7 +770,13 @@ def conv_data(tpp, adb_files, ldb, vtgs,year_act, BLUES, sc2_e, df_generator):#a
                             nc_aux = [c.strip() for c in con1 if c.split('-')[0] in sc2_c]
                             if len(nc_aux) > 0: #check if there is any value
                                 con_fac.append(nc_aux[0]) #appending value into main list of constraints
-                                cv_aux = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ccon.split(nc_aux[0])[-1].split('#')[0]) #getting all numbers of the output emi1[ind+1:] #from ts to the end
+                                
+                                if  'E' in ccon.split(nc_aux[0])[-1].split('#')[0].upper():
+                                    print(tn0+' - '+Reg + ' HAS E IN CON1A') #print tec name and its region   
+                                    cv_aux = re.findall('-?\ *[0-9]+\.?[0-9]*(?:[Ee]\ *-?\ *[0-9]+)?', ccon.split(nc_aux[0])[-1].split('#')[0] )
+                                else:
+                                    cv_aux = re.findall(r"[-+]?\d*\.?\d+|[-+]?\d+", ccon.split(nc_aux[0])[-1].split('#')[0]) #getting all numbers of the output emi1[ind+1:] #from ts to the end
+                                
                                 cv_aux = [r_t_z("{:.11f}".format(float(v)) ) for v in cv_aux] #converting to float                                                                           
                                 con_val.append(cv_aux) #appending value into main list of constraint values 
                         if len(con_fac)>0:                           
